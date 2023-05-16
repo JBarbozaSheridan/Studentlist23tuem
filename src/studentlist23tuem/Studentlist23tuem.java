@@ -13,7 +13,6 @@ import java.util.Scanner;
 public class Studentlist23tuem {
 
     //Hellos this is commernt
-    //Hello this is commet for rollback
     
     public static void main(String[] args) {
         
