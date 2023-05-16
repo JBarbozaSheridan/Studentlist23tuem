@@ -12,9 +12,8 @@ import java.util.Scanner;
  */
 public class Studentlist23tuem {
 
-    /**
-     * @param args the command line arguments
-     */
+    //Hellos this is commernt
+    
     public static void main(String[] args) {
         
         Student s1 = new Student("S1", "s1");
