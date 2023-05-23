@@ -13,7 +13,7 @@ public class Student {
     private String sID;
     
     //Im a comment from github editor
-
+    //Prueba 2
     public Student(String sname, String sID) {
         this.sname = sname;
         this.sID = sID;
